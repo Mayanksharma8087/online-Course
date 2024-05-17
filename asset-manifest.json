@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.4daa2ad5.css",
+    "main.js": "/my-app/static/js/main.c0df1173.js",
+    "static/js/542.1d1a1032.chunk.js": "/my-app/static/js/542.1d1a1032.chunk.js",
+    "static/js/550.c5de8962.chunk.js": "/my-app/static/js/550.c5de8962.chunk.js",
+    "static/js/411.e5dfab49.chunk.js": "/my-app/static/js/411.e5dfab49.chunk.js",
+    "static/js/354.79218b39.chunk.js": "/my-app/static/js/354.79218b39.chunk.js",
+    "static/js/374.67c08314.chunk.js": "/my-app/static/js/374.67c08314.chunk.js",
+    "static/media/user-round.svg": "/my-app/static/media/user-round.13b5a31bebd2cc6016d6db2cac8e92d1.svg",
+    "static/media/social-google.svg": "/my-app/static/media/social-google.9887eb8eb43729cb99f402cfa0de3c44.svg",
+    "static/media/earning.svg": "/my-app/static/media/earning.b019e86a7ee117bd6bb2e8cab90c0db5.svg",
+    "index.html": "/my-app/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.4daa2ad5.css",
+    "static/js/main.c0df1173.js"
+  ]
+}
